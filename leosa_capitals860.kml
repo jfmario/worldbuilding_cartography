@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<Document>
+	<name>Leosa Capital Cities - CY860</name>
+
+	<Style id="BEStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>#ff222222</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>#ff222222</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	
+	<Style id="PVStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	
+	<Style id="RJStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="DRStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff3399ff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff3399ff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="POStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff00ffff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	
+	<Style id="NTStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ffaaaaff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffaaaaff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="ASStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff111144</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff111144</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="DHStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff1111ff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff1111ff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="FQStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff99ccdd</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff99ccdd</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	
+	<Style id="AZ-GSStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff55bb22</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff55bb22</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="AZ-AZStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff0000bb</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000bb</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="AZ-TVStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff113377</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff113377</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="RBStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ff00ccff</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ccff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+
+	<Style id="GSStyle_Capital">
+		<IconStyle>
+			<Icon>
+				<href>
+				http://maps.google.com/mapfiles/kml/shapes/placemark_square.png
+				</href>
+			</Icon>
+			<color>ffeeff44</color>
+			<scale>1</scale>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeeff44</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	
+	<Placemark id="capital_baurce">
+		<name>Baurce</name>
+		<description></description>
+		<styleUrl>#BEStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-164.0884849419052,51.84541990140664,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_pavach">
+		<name>Pavach</name>
+		<description></description>
+		<styleUrl>#PVStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-114.5956176003919,58.0327821112547,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_pentapolis">
+		<name>The Pentapolis</name>
+		<description></description>
+		<styleUrl>#RJStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-149.6914183082679,48.30902997216402,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_bloirs">
+		<name>Bloirs</name>
+		<description></description>
+		<styleUrl>#DRStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-151.4373134600127,51.58130195987682,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_paecto">
+		<name>Paecto</name>
+		<description></description>
+		<styleUrl>#POStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-137.9804037053738,49.73269791878537,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_miamuo">
+		<name>Miamuo</name>
+		<description></description>
+		<styleUrl>#NTStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-131.542149281151,36.6007713345538,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_wiyuhi">
+		<name>Wiyuhi</name>
+		<description></description>
+		<styleUrl>#ASStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-153.2298682885699,36.71309228795089,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_haran">
+		<name>Haran</name>
+		<description></description>
+		<styleUrl>#DHStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-172.6937679949343,43.12623958530566,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_riadaveo">
+		<name>Riadaveo</name>
+		<description></description>
+		<styleUrl>#FQStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-166.4431212267739,34.54373752405555,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_gosa">
+		<name>Gosa</name>
+		<description></description>
+		<styleUrl>#AZ-GSStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-178.6443282989981,48.02076071476853,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_adzeshnog">
+		<name>Adzeshnog</name>
+		<description></description>
+		<styleUrl>#AZ-AZStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-179.7402871525895,44.67591132235894,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_tevlid">
+		<name>Tevlid</name>
+		<description></description>
+		<styleUrl>#AZ-TVStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-177.0118810933549,45.87298212499029,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_gharbagh">
+		<name>Gharbagh</name>
+		<description></description>
+		<styleUrl>#RBStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-173.2256777978463,56.59734043761875,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_kujoot">
+		<name>Kujoot</name>
+		<description></description>
+		<styleUrl>#RBStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-174.3066992564556,51.07240340962844,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark id="capital_geis">
+		<name>Geis</name>
+		<description></description>
+		<styleUrl>#GSStyle_Capital</styleUrl>
+		<Point>
+			<coordinates>-140.5452348587702,62.06341916719595,0</coordinates>
+		</Point>
+	</Placemark>
+
+</Document>
+</kml>
